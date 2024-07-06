@@ -5,3 +5,7 @@ b = 3
 print(a+b)
 c = 5
 print(c)
+d = 6
+print(d)
+e = 20
+print(e)
