@@ -6,3 +6,5 @@ c = 5
 print(c)
 d = 6
 print(d)
+e = 20
+print(e)
